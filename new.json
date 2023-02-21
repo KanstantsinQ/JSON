@@ -1,7 +1,7 @@
-{	"firstname": "Kanstantsin" ,
-	"surname": "Sushko" ,
-	"age": 34,
-	"pets": 2,
-	"salary": "one million dollars"
+{	"firstname":"Kanstantsin" ,
+	"surname":"Sushko" ,
+	"age":34,
+	"pets":2,
+	"salary":"one million dollars"
 	
 }
