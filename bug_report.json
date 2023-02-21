@@ -1,12 +1,15 @@
 {
-"ID":"0000AB" ,
-"Title":"When you click the 'Register' button, the registration form does not open" ,
-"App":"Family" ,
-"Version":"Android 2.1" ,
-"Severyti":"S1 blocker" ,
-"Priority":"P1 High" , 
-"Status":"New" ,  
-"Autor":"Kanstantsin Sushko" ,  
-"Assigned To":"Kartel Yauheni" 
-"reference":"https://testit.software/blog/post/kak-pravilno-oformit-bag-report"
+  "Bug_reports":
+              {
+                "ID":"0000AB",
+                "Title":"When you click the 'Register' button, the registration form does not open",
+                "App":"Family",
+                "Version":"Android 2.1",
+                "Severyti":"S1 blocker",
+                "Priority":"P1 High", 
+                "Status":"New",  
+                "Autor":"Kanstantsin Sushko",  
+                "Assigned To":"Kartel Yauheni", 
+                "reference":"https://testit.software/blog/post/kak-pravilno-oformit-bag-report"
+                }
 }
