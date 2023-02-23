@@ -2,15 +2,22 @@
                                 "firsname": "Kanstantsin",
                                 "surname": "Sushko",
                                 "status": "married"
-                               }
+                               },
                                  "family": {
                                             "wife": { 
                                                       "firstname": "Darya",
                                                       "surname": "Sushko"
-                                                    }
+                                                    },
                                             "daughter": {
                                                          "firstname": "Varvara",
                                                          "surname": "Sushko"
-                                                        }
+                                                        },
+
+				"my car": {
+					   "production": "renault",
+					   "model": "laguna",	
+					   "year": 2010
+				          }
+
 
 }
